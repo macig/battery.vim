@@ -114,9 +114,9 @@ call s:define('g:battery', {
       \ 'update_tabline': 0,
       \ 'update_statusline': 0,
       \ 'component_format': '%s %v%% %g',
-      \ 'symbol_charging': '♥',
-      \ 'symbol_discharging': '♡',
-      \ 'graph_symbol_fill': '█',
-      \ 'graph_symbol_null': '░',
+      \ 'symbol_charging': '',
+      \ 'symbol_discharging': '',
+      \ 'graph_symbol_fill': '',
+      \ 'graph_symbol_null': '',
       \ 'graph_width': 5,
       \})
